@@ -10,6 +10,7 @@ new RevealOnScroll($(".testimonial"), "60%");
 var stickyHeader = new StickyHeader();
 var modal = new Modal();
 
+
 /// THIS WHERE THE BABEL AND ES6 EXAMPLES
 /*
 //var Person = require('./modules/Person');
